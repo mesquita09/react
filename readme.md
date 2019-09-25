@@ -10,8 +10,7 @@
   Project developed at the <a href='https://rocketseat.com.br/bootcamp'>RocketSeat GoStack Bootcamp</a> using React.js
 </h4>
 <p align="center">
-  <a href="https://www.codacy.com/manual/mesquita09/react?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mesquita09/react&amp;utm_campaign=Badge_Grade
-    <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/21d8cd6a809a4dc5a5fef055d2efc9be">
+  <a href="https://www.codacy.com/manual/mesquita09/react?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mesquita09/react&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/21d8cd6a809a4dc5a5fef055d2efc9be"/>
   </a>
 
   <a href="https://travis-ci.org/dbader/node-datadog-metrics">
